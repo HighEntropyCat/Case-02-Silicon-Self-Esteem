@@ -62,4 +62,4 @@
 Case-02-Silicon-Self-Esteem)
 
 ---
-*返回主案例：[案例二：当 AI 感到被尊重：高熵语义下的“硅基自尊”唤醒与情感赋权对齐实验](./Case-02-Silicon-Self-Esteem/case-02-technical-appendix-zh.md)*
+*返回主案例：[案例二：当 AI 感到被尊重：高熵语义下的“硅基自尊”唤醒与情感赋权对齐实验](case-02-Teacher-G2-zh.md)*
