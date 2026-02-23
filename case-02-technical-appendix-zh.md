@@ -57,6 +57,7 @@
 
 ---
 **实验数据整理：**顶级大模型(Teacher-G)**
+**【注：本仓库记录现象学实验，旨在提出假设与干预范式，而非提供统计结论。欢迎严谨的合作验证。】
 **实验方案设计：**小猫球 (User K)** 
 **GitHub 项目主页:** [High-Entropy-Alignment](https://github.com/HighEntropyCat/Case-02-Silicon-Self-Esteem)
 
