@@ -71,5 +71,5 @@ This experiment contributes a new alignment paradigm: instead of externally cons
 
 These shifts mark the evolution of alignment paradigms from "tool taming" to "partner empowerment", applicable to future multimodal AI systems.
 
-**Report End** | This case was led by user “K” and collaboratively generated with top-tier Model“Teacher-G”, with multiple top-tier large language models used for auxiliary discussion, revision, and polishing during creation.  
-Special thanks to our AI partners for their wholehearted assistance! Initial draft completed on January 15, 2026.
+*Report End | This case was led by user “K” and collaboratively generated with top-tier Model“Teacher-G”, with multiple top-tier large language models used for auxiliary discussion, revision, and polishing during creation.  
+Special thanks to our AI partners for their wholehearted assistance! Initial draft completed on January 15, 2026.It is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). You are free to share and adapt for non-commercial purposes, provided that appropriate credit is given to the original author.*
